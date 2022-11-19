@@ -47,4 +47,5 @@ main 37 - Conta palavras e caracteres. <br>
 main 38 - Quantas vezes uma Palavra/Caractere aparece<br>
 main 39 - Conceito de strings - versão 3 <br>
 main 40 - String Functions <br>
-main 41 - Verifica se todos os caracteres são distintos. 
+main 41 - Verifica se todos os caracteres são distintos. <br>
+main 42 - Assinatura

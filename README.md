@@ -48,4 +48,5 @@ main 38 - Quantas vezes uma Palavra/Caractere aparece<br>
 main 39 - Conceito de strings - versão 3 <br>
 main 40 - String Functions <br>
 main 41 - Verifica se todos os caracteres são distintos. <br>
-main 42 - Assinatura
+main 42 - Assinatura<br>
+main 43 - Converter binário para decimal.

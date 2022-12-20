@@ -50,4 +50,5 @@ main 40 - String Functions <br>
 main 41 - Verifica se todos os caracteres são distintos. <br>
 main 42 - Assinatura<br>
 main 43 - Converter binário para decimal.<br>
-main 44 - Verificar se s2 é substring de s1
+main 44 - Verificar se s2 é substring de s1 <br>
+main 45 - Verifica se uma string é outra embaralhada 
